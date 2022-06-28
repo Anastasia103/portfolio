@@ -1,0 +1,20 @@
+#contact-container {font-family: 'Poppins', sans-serif;
+color: #091434;
+margin: 0;
+margin-top: 40px;
+padding: 10px;
+border-radius: 20px;
+background: white;
+height: 560px;
+max-height: 90vh;
+box-sizing: border-box;
+max-width: 100%;
+width: 580px;
+opacity: 1;
+transform: translate(0px, 0px);
+}
+h1 {
+    background-color: #f89546;
+    color: white;
+    border-radius: 12px;
+}

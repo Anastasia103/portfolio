@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+   .btn {
+       margin-left: 5vh;
+       margin-top: 3vh;
+    }
+ }
+@media (min-width: 992px) { 
+    .btn {
+       margin: 3vh 46%;
+       width: 11%;
+    }
+ }
